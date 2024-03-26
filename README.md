@@ -44,7 +44,6 @@ If you find this work useful for your research, please cite our paper:
 	journal={IEEE Transactions on Robotics}, 
 	year={2024},
 	volume={40},
-	number={},
 	pages={22-42}
 }
 ```

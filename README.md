@@ -23,7 +23,7 @@ git clone https://github.com/MurpheyLab/DPGO.git
 cd DPGO
 mkdir release
 cd release
-cmake -DCMAKE_BUILD_TYPE=Release ..
+cmake -DCMAKE_BUILD_TYPE=Release ../C++
 make -j16
 ```
 
